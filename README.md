@@ -1,7 +1,7 @@
 # 🚖 Ola Ride Booking Analysis
 
 <p align="center">
-  <img src="Dashboard/dashboard_Preview.png" alt="Ola Ride Booking Dashboard" width="100%">
+  <img src="dashboard/dashboard_Preview.png" alt="Ola Ride Booking Dashboard" width="100%">
 </p>
 
 <p align="center">
