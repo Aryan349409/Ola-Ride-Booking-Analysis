@@ -1,17 +1,10 @@
 # 🚖 Ola Ride Booking Analysis
 
-<p align="center">
-  <img src="dashboard/dashboard_Preview.png" alt="Ola Ride Booking Dashboard" width="100%">
-</p>
+# 🚖 OLA Ride Booking Analysis
 
-<p align="center">
-  <strong>End-to-End Data Analytics Project using Microsoft Excel, SQL, and Power BI</strong>
-</p>
+![Dashboard Preview](Dashboard/dashboard_Preview.png)
 
-<p align="center">
-  An interactive Business Intelligence solution built to analyze 40,000+ OLA ride booking records and generate actionable business insights.
-</p>
-
+End-to-End Data Analytics Project using Excel, SQL & Power BI.
 ---
 
 # 📖 Project Overview
