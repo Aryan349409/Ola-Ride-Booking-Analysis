@@ -1,6 +1,5 @@
 # 🚖 Ola Ride Booking Analysis
 
-<h1 align="center">🚖 OLA Ride Booking Analysis</h1>
 
 <p align="center">
   <img src="Dashboard/dashboard_preview.png" alt="Dashboard Preview" width="100%">
