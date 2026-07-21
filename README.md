@@ -1,8 +1,10 @@
 # 🚖 Ola Ride Booking Analysis
 
-# 🚖 OLA Ride Booking Analysis
+<h1 align="center">🚖 OLA Ride Booking Analysis</h1>
 
-![Dashboard Preview](Dashboard/dashboard_Preview.png)
+<p align="center">
+  <img src="Dashboard/dashboard_preview.png" alt="Dashboard Preview" width="100%">
+</p>
 
 End-to-End Data Analytics Project using Excel, SQL & Power BI.
 ---
