@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="ola dashboard.png" alt="ola dashboard" width="100%">
+  <img src="./ola dashboard.png" alt="Ola Ride Booking Dashboard" width="100%">
 </p>
 
 End-to-End Data Analytics Project using Excel, SQL & Power BI.
